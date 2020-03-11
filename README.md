@@ -1,2 +1,2 @@
 # 파이썬 youtube 따라 공부...
-#https://www.youtube.com/watch?v=kWiCuklohdY&feature=youtu.be
+# url : https://www.youtube.com/watch?v=kWiCuklohdY&feature=youtu.be
